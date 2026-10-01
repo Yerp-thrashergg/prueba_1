@@ -1,15 +1,12 @@
 import java.util.ArrayList;
 
 public class GestorViviendas {
-    private ArrayList <GestorViviendas> gestorVivienda;
-
-    public void gestorVivienda(){
-        this.gestorVivienda = new ArrayList<>();
-    }
-
-
-
-
-
-
+    private ArrayList<GestorViviendas> gestorVivienda;
 }
+
+
+
+public lista(){
+    this.gestorVivienda = new ArrayList<>();
+}
+

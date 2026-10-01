@@ -8,6 +8,7 @@ public abstract class Vivienda {
 
     // Constructor vacio:
     public Vivienda() {
+
     }
 
     // Constructor con datos:
